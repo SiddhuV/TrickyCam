@@ -7,7 +7,7 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m 
+printf "\e[1;92m  
 _____                 
 |_   _|  (_)    | |              /  __ \                
   | |_ __ _  ___| | _____ _   _  | /  \/ __ _ _ __ ___  
